@@ -6,7 +6,8 @@ noinst_HEADERS = \
 	configuration.h \
 	manager/strassenfestmanager.h \
 	model/strassenfest.h \
-	model/strassenfestresult.h
+	model/strassenfestresult.h \
+	model/SessionShareds.h
 
 ecppSources = \
 	view/suche.ecpp \
